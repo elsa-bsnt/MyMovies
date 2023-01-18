@@ -1,9 +1,9 @@
 # MyMovies
 
-##Projet
+## Projet
 Le projet MyMovies a pour objectif de créer un compte utilisateur et de pouvoir par la suite se connecter, afin d'avoir accès à une base de donnée de films.
 
-##Installation
+## Installation
 
 ```
 npm install
@@ -16,8 +16,8 @@ npm run serve
 npm start
 ```
 
-##Auteur
+## Auteur
 - [@elsa-bsnt](https://github.com/elsa-bsnt)
 
-##Remerciements
+## Remerciements
 /
