@@ -8,7 +8,7 @@ Le projet MyMovies a pour objectif de créer un compte utilisateur et de pouvoir
 ```
 npm install
 ```
-Aller dans le dossier front-end
+Aller dans le dossier front-end.
 ```
 npm run serve
 ```
